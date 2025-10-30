@@ -10,19 +10,6 @@ A beginner-friendly Unity 3D project that simulates a basic electric circuit wit
   - UI slider to control voltage
   - Switch to turn the circuit on/off
 
-## 🧩 Project Structure
-Assets/
-├── Scripts/
-│ ├── Battery3D.cs
-│ ├── Bulb3D.cs
-│ └── Wire3D.cs
-├── Prefabs/
-│ ├── Battery.prefab
-│ ├── Bulb.prefab
-│ └── Wire.prefab
-└── Scenes/
-└── MainScene.unity
-
 ## 🎮 How to Run
 1. Open the project in **Unity 2021 LTS or newer**.  
 2. Open the scene: `Scenes/MainScene.unity`.  
